@@ -1,0 +1,97 @@
+my-tweets
+----------Tweet1---------------
+Getting back to routine after a long weekend.....wait.... what routine??? https://t.co/Ut0xUQ0Jzc via @MemeCenter
+Wed Jul 05 12:35:51 +0000 2017
+
+----------Tweet3---------------
+Where is the video of that chase?
+Like "Batman" scene: Judge chases man running from his courtroom https://t.co/qtMp5NpyXk
+Fri Jun 23 15:39:32 +0000 2017
+
+----------Tweet2---------------
+https://t.co/oLV9u5MQm0 https://t.co/Hnq9Dv4HD6
+Fri Jun 23 15:51:07 +0000 2017
+
+----------Tweet4---------------
+first tweet with #firsttweet https://t.co/78PuDuU6zK
+Fri Jun 23 15:35:06 +0000 2017
+
+----------Tweet5---------------
+First tweet https://t.co/UKSep85GlP
+Fri Jun 23 15:33:12 +0000 2017
+
+spotify-this-song 'shape of you'  'ed sheeran' 
+Error: Cannot read property 'title' of undefinedspotify-this-song 'shape of you'  'ed sheeran' 
+spotify-this-song 'shape of you'  'ed sheeran' 
+spotify-this-song 'believe'  'cher' 
+spotify-this-song 'shape of you'  'ed sheeran' 
+spotify-this-song 'believe'  'cher' 
+ARTIST: Cher
+SONG: Believe
+PREVIEW LINK: https://www.last.fm/music/Cher/_/Believe
+ALBUM: Believe
+movie-this 'the bourne ultimatum' 
+TITLE: The Bourne Ultimatum
+RELEASED: 03 Aug 2007
+IMDB RATING: 8.1/10
+Rotten Tomatoes RATING: 93%
+COUNTRY: USA, Germany
+LANGUAGE: English, French, Arabic, Russian, Spanish
+PLOT: Jason Bourne dodges a ruthless CIA official and his agents from a new assassination program while searching for the origins of his life as a trained killer.
+ACTORS: Matt Damon, Julia Stiles, David Strathairn, Scott Glenn
+
+
+
+movie-this 'the good the bad and the ugly"
+' 
+TITLE: The Good, the Bad and the Ugly
+RELEASED: 29 Dec 1967
+IMDB RATING: 8.9/10
+Rotten Tomatoes RATING: 97%
+COUNTRY: Italy, Spain, West Germany
+LANGUAGE: Italian, English
+PLOT: A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.
+ACTORS: Eli Wallach, Clint Eastwood, Lee Van Cleef, Aldo Giuffrè
+
+
+spotify-this-song 'believer'  'imagine dragons' 
+Error: Cannot read property 'title' of undefined
+
+spotify-this-song 'Believer'  'imagine dragons' 
+Error: Cannot read property 'title' of undefined
+
+spotify-this-song 'Thats'  'the'  'way The'  'Sunshine'  'Band
+' 
+Error: Track not found
+
+spotify-this-song 'Thats'  'the'  'way The'  'Sunshine'  'Band' 
+Error: Track not found
+
+spotify-this-song 'Thats the way'  'The Sunshine Band' 
+Error: Cannot read property 'title' of undefined
+
+my-tweets
+----------Tweet1---------------
+Getting back to routine after a long weekend.....wait.... what routine??? https://t.co/Ut0xUQ0Jzc via @MemeCenter
+Wed Jul 05 12:35:51 +0000 2017
+
+----------Tweet3---------------
+Where is the video of that chase?
+Like "Batman" scene: Judge chases man running from his courtroom https://t.co/qtMp5NpyXk
+Fri Jun 23 15:39:32 +0000 2017
+
+----------Tweet2---------------
+https://t.co/oLV9u5MQm0 https://t.co/Hnq9Dv4HD6
+Fri Jun 23 15:51:07 +0000 2017
+
+----------Tweet4---------------
+first tweet with #firsttweet https://t.co/78PuDuU6zK
+Fri Jun 23 15:35:06 +0000 2017
+
+----------Tweet5---------------
+First tweet https://t.co/UKSep85GlP
+Fri Jun 23 15:33:12 +0000 2017
+
+movie-this 'the rain man' 
+movie-this 'the rainman' 
+movie-this 'rainman' 
